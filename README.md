@@ -13,17 +13,17 @@ Pre-summer survey (should have been completed before the bootcamp): TODO
 | Date/Time | Topic | Primary Instructor(s) |
 | --------- | ----- | --------------------- |
 | Monday 6/7, 9-9:30 | Welcome to CHAMP | Nick Kern, Aaron Ewall-Wice, Steven Murray, Paul La Plante, Josh Dillon, Danny Jacobs, James Aguirre, Adrian Liu, Dara Storer, Lindsay Berkhout |
-| Monday 6/7, 9:30-12:30 | [Intro to Cosmology](Lesson1_21cmCosmo) | Adrian Liu |
-| Monday 6/7, 2-5  | [Intro to Computing (shell) and Python](Lesson2_IntroToComputing) (Jupyter basics, python syntax, functions, data structures, control structures, I/O) | Paul La Plante, Jordan Mirocha |
-| Tuesday 6/8 9:30-12:30 | [Radio Astronomy Introduction](Lesson3_RadioAstronomyIntro) (what is a visibility?) + HERA System Walkthrough | Aaron Parsons | 
-| Tuesday 6/8 2-5 | [Fourier Series + Transforms](Lesson5_Fourier) | James Aguirre | 
-| Wednesday 6/9 9:30-12:30 | [Advanced Python](Lesson4_PythonProgramming) (common imports, OO/classes, making modules, errors and debugging) + Scientific Python (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | 
-| Wednesday 6/9 2-3 | [HERA Collaboration Tools](Lesson6_CollaborationTools) (slack, github, wiki, etc.) |  Jordan Mirocha, Steven Murray | 
+| Monday 6/7, 9:30-12:30 | [Intro to Cosmology](Lessons/21cmCosmo) | Adrian Liu |
+| Monday 6/7, 2-5  | [Intro to Linux/Shell](Lessons/IntroToShell) and [Python I](Lessons/IntroPython) (Jupyter basics, python syntax, functions, data structures, control structures, I/O) | Paul La Plante, Jordan Mirocha |
+| Tuesday 6/8 9:30-12:30 | [Radio Astronomy Introduction](Lessons/RadioAstronomyIntro) (what is a visibility?) + HERA System Walkthrough | Aaron Parsons | 
+| Tuesday 6/8 2-5 | [Fourier Series + Transforms](Lessons/FourierAnalysis) | James Aguirre | 
+| Wednesday 6/9 9:30-12:30 | [Python II](Lessons/IntroPython) (common imports, OO/classes, making modules, errors and debugging) + [Scientific Python](Lessons/ScientificPython) (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | 
+| Wednesday 6/9 2-3 | [HERA Collaboration Tools](Lessons/CollaborationTools) (slack, github, wiki, etc.) |  Jordan Mirocha, Steven Murray | 
 | Wednesday 6/9 3:30-4 | Diversity, Equity and Inclusion |  Parsons | 
 | Thursday 6/10 8-9 | Informal introductions on HERA general telecon | HERA Collaboration | 
 | Thursday 6/10 Morning | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
-| Thursday 6/10 Afternoon | [Interferometry](Lesson7_Interferometry) (CASA) | Danny Jacobs | 
-| Friday 6/11 9:30-12:30 | [HERA Data I](Lesson8_HERADataPartI) (Waterfalls) | Josh Dillon, Aaron Ewall-Wice | 
+| Thursday 6/10 Afternoon | [Interferometry](Lessons/Interferometry) (CASA) | Danny Jacobs | 
+| Friday 6/11 9:30-12:30 | [HERA Data I](Lessons/HERADataPartI) (Waterfalls) | Josh Dillon, Aaron Ewall-Wice | 
 | Friday 6/11 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
-| Monday 6/14 9:30-12:30 | [Reionization Theory and 21cmFAST](Lesson9_Reionization_and_21cmFAST) | Steven Murray, Paul La Plante | 
-| Tuesday 6/15 9:30-12:30  | [HERA Data II](Lesson10_HERADataPartII) (calibration and imaging) | Nick Kern, Ridhima Nunhokee | 
+| Monday 6/14 9:30-12:30 | [Reionization Theory and 21cmFAST](Lessons/ReionizationTheory21cmFAST) | Steven Murray, Paul La Plante | 
+| Tuesday 6/15 9:30-12:30  | [HERA Data II](Lessons/HERADataPartII) (calibration and imaging) | Nick Kern, Ridhima Nunhokee | 
