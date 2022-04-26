@@ -6,24 +6,35 @@ Post-session evaluation form: TODO
 
 Pre-summer survey (should have been completed before the bootcamp): TODO
 
-## Schedule for Virtual CHAMP Camp 2021
+## Schedule for CHAMP Camp 2022
 
-### All Times Pacific
+**All Times Eastern**
 
-| Date/Time | Topic | Primary Instructor(s) |
-| --------- | ----- | --------------------- |
-| Monday 6/7, 9-9:30 | Welcome to CHAMP | Nick Kern, Aaron Ewall-Wice, Steven Murray, Paul La Plante, Josh Dillon, Danny Jacobs, James Aguirre, Adrian Liu, Dara Storer, Lindsay Berkhout |
-| Monday 6/7, 9:30-12:30 | [Intro to Cosmology](Lessons/21cmCosmo) | Adrian Liu |
-| Monday 6/7, 2-5  | [Intro to Linux/Shell](Lessons/IntroToShell) and [Python I](Lessons/IntroPython) (Jupyter basics, python syntax, functions, data structures, control structures, I/O) | Paul La Plante, Jordan Mirocha |
-| Tuesday 6/8 9:30-12:30 | [Radio Astronomy Introduction](Lessons/RadioAstronomyIntro) (what is a visibility?) + HERA System Walkthrough | Aaron Parsons | 
-| Tuesday 6/8 2-5 | [Fourier Series + Transforms](Lessons/FourierAnalysis) | James Aguirre | 
-| Wednesday 6/9 9:30-12:30 | [Python II](Lessons/IntroPython) (common imports, OO/classes, making modules, errors and debugging) + [Scientific Python](Lessons/ScientificPython) (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | 
-| Wednesday 6/9 2-3 | [HERA Collaboration Tools](Lessons/CollaborationTools) (slack, github, wiki, etc.) |  Jordan Mirocha, Steven Murray | 
-| Wednesday 6/9 3:30-4 | Diversity, Equity and Inclusion |  Parsons | 
-| Thursday 6/10 8-9 | Informal introductions on HERA general telecon | HERA Collaboration | 
-| Thursday 6/10 Morning | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
-| Thursday 6/10 Afternoon | [Interferometry](Lessons/Interferometry) (CASA) | Danny Jacobs | 
-| Friday 6/11 9:30-12:30 | [HERA Data I](Lessons/HERADataPartI) (Waterfalls) | Josh Dillon, Aaron Ewall-Wice | 
-| Friday 6/11 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
-| Monday 6/14 9:30-12:30 | [Reionization Theory and 21cmFAST](Lessons/ReionizationTheory21cmFAST) | Steven Murray, Paul La Plante | 
-| Tuesday 6/15 9:30-12:30  | [HERA Data II](Lessons/HERADataPartII) (calibration and imaging) | Nick Kern, Ridhima Nunhokee | 
+
+### In-Person Lessons
+| Date/Time              | Topic                                                | Primary Instructor(s) | Helpers |
+| ---------              | -----                                                | --------------------- | ------- |
+| Mon 06/06, 09:00-09:30 | Welcome to CHAMP                                     | Aaron Parsons         |         |
+| Mon 06/06, 09:30-12:30 | [Intro to Cosmology](Lessons/21cmCosmo)              | Paul La Plante        | Adelie Gorce |
+| Mon 06/06, 12:30-14:00 | **LUNCH AND INTROS**                                 | -                     |         |
+| Mon 06/06, 14:00-15:00 | Software Setup Testing                               | Paul La Plante        | Steven Murray, Bryna Hazelton        |
+| Mon 06/06, 15:00-16:00 | [Intro to Linux/Shell](Lessons/IntroToShell)         | Paul La Plante        | Steven Murray, Bobby Pascua, Adelie Gorce        |
+| Mon 06/06, 16:00-17:00 | [Python I](Lessons/IntroPython)                      | Bobby Pascua          | Steven Murray, Paul La Plante, Adelie Gorce        |
+| Tue 06/07, 09:30-12:30 | [Radio Astronomy Intro](Lessons/RadioAstronomyIntro) | Aaron Parsons         | Lindsay Berkhout   | 
+| Tue 06/07, 14:00-15:30 | [Python II](Lessons/IntroPython)                     | Bobby Pascua          | Steven Murray, Josh Dillon |
+| Tue 06/07, 15:30-17:00 | [Scientific Python](Lessons/ScientificPython)        | Josh Dillon           | Steven Murray, Bobby Pascua |
+| Wed 06/08, 09:30-12:30 | [Fourier Transforms](Lessons/FourierAnalysis)        | James Aguirre         |   |
+| Wed 06/08, 14:00-14:30 | Diversity, Equity and Inclusion                      | Aaron Parsons         |   |
+| Wed 06/08, 14:30-17:00 | [HERA Data I](Lessons/HERADataPartI) (Waterfalls)    | Bobby Pascua          | Josh Dillon, James Aguirre |
+| Thu 06/09, 19:30-12:00 | [Intro to Git](Lessons/IntroGit)                     | Bryna Hazelton        | Steven Murray  |
+| Thu 06/09, 12:00-12:30 | [HERA Collab. Tools](Lessons/CollaborationTools)     | Bryna Hazelton        | Steven Murray  |
+| Thu 06/09, 14:00-17:00 | HERA System Walkthrough                              | Lindsay Berkhout      | Aaron Parsons  |
+| Fri 06/09, 09:30-12:30 | [Interferometry](Lessons/Interferometry) (CASA)      | Danny Jacobs          | Zhilei Xu     |
+| Fri 06/09, 14:00-17:00 | [HERA Data II](Lessons/HERADataPartII) (Calibration/Imaging) | Zhilei Xu     | Danny Jacobs | 
+
+### Post-Camp Virtual Lessons
+| Date/Time              | Topic                                                | Primary Instructor(s) | Helpers |
+| ---------              | -----                                                | --------------------- | ------- |
+| TBD                    | [Reionization and 21cmFAST](Lessons/ReionizationTheory21cmFAST) | Steven Murray, Paul La Plante, Adelie Gorce |  -  |
+| TBD                    | [Advanced Git](Lessons/IntroGit)                     | Bryna Hazelton        | Steven Murray  |
+
