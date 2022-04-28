@@ -29,8 +29,8 @@ Pre-summer survey (should have been completed before the bootcamp): TODO
 | Thu 06/09, 19:30-12:00 | [Intro to Git](Lessons/IntroGit)                     | Bryna Hazelton        | Steven Murray  |
 | Thu 06/09, 12:00-12:30 | [HERA Collab. Tools](Lessons/CollaborationTools)     | Bryna Hazelton        | Steven Murray  |
 | Thu 06/09, 14:00-17:00 | HERA System Walkthrough                              | Lindsay Berkhout      | Aaron Parsons  |
-| Fri 06/09, 09:30-12:30 | [Interferometry](Lessons/Interferometry) (CASA)      | Danny Jacobs          | Zhilei Xu     |
-| Fri 06/09, 14:00-17:00 | [HERA Data II](Lessons/HERADataPartII) (Calibration/Imaging) | Zhilei Xu     | Danny Jacobs | 
+| Fri 06/10, 09:30-12:30 | [Interferometry](Lessons/Interferometry) (CASA)      | Danny Jacobs          | Zhilei Xu     |
+| Fri 06/10, 14:00-17:00 | [HERA Data II](Lessons/HERADataPartII) (Calibration/Imaging) | Zhilei Xu     | Danny Jacobs | 
 
 ### Post-Camp Virtual Lessons
 | Date/Time              | Topic                                                | Primary Instructor(s) | Helpers |
