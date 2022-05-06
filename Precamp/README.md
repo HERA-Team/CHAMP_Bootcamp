@@ -4,6 +4,10 @@ The following are for students participating in CHAMP Camp who are not
 explicitly CHAMP scholars, as well as instructors wishing to test their
 installation at NRAO.
 
+## Respond to the Survey
+
+Before camp, please respond to the [pre-summer survey](https://docs.google.com/forms/d/1Iu_2P_mhiLYTOgoT8unPBoZX1CWTpwktb8WNQ-N3xW8/edit?usp=sharing)!
+
 ## Set up conda environments
 
 The CHAMP students will have two pre-built environments based on the YAML files
