@@ -6,6 +6,7 @@ dependencies:
   - aipy
   - astropy
   - ephem
+  - git
   - h5py
   - healpy
   - ipython
