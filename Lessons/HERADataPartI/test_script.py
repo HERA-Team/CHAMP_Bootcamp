@@ -8,7 +8,7 @@ if __name__ == "__main__":
     plt.ion()
     
     # Load the sample data.
-    this_dir = Path(".")
+    this_dir = Path(__file__).parent
     test_file = list(this_dir.glob("*.uvh5"))[0]
     uvd = UVData()
     uvd.read(test_file)
