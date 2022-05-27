@@ -4,9 +4,9 @@ This repository is for lesson material for the CHAMP bootcamp. See http://reioni
 
 ## Surveys For 2022
 
-* [Pre-Summer Survey](https://docs.google.com/forms/d/1Iu_2P_mhiLYTOgoT8unPBoZX1CWTpwktb8WNQ-N3xW8/edit?usp=sharing) (complete it before bootcamp): 
-* [Post-session evaluation form](https://docs.google.com/forms/d/1x8bkV3t9mV3icSqRp3pJYNeksC3xGXyIhYHan-pW3LU/edit?usp=sharing) (complete after every lesson)
-* [Post-Summer Survey](https://docs.google.com/forms/d/1D7If0A9Sw0w4K9N3IO0ZeaYZE3J4kractE4yn_fY8cM/edit?usp=sharing) (complete after the summer is done)
+* [Pre-Summer Survey](https://forms.gle/Mgi3heCAcFAgJ4eK8) (complete it before bootcamp): 
+* [Post-session evaluation form](https://forms.gle/Un2HSxZShNezrmGDA) (complete after every lesson)
+* [Post-Summer Survey](https://forms.gle/9qZRg38acKG9CKrH6) (complete after the summer is done)
 
 ## Schedule for CHAMP Camp 2022
 
