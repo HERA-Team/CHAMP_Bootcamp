@@ -17,9 +17,9 @@ This repository is for lesson material for the CHAMP bootcamp. See http://reioni
 | Mon 06/06, 09:00-09:30 | Welcome to CHAMP                                     | Aaron Parsons         |         |
 | Mon 06/06, 09:30-12:30 | [Intro to Cosmology](Lessons/21cmCosmo)              | Adrian Liu            | Adelie Gorce |
 | Mon 06/06, 12:30-14:00 | **LUNCH AND INTROS**                                 | -                     |         |
-| Mon 06/06, 14:00-15:00 | Software Setup Testing                               | Paul La Plante        | Steven Murray, Bryna Hazelton        |
-| Mon 06/06, 15:00-16:00 | [Intro to Linux/Shell](Lessons/IntroToShell)         | Paul La Plante        | Steven Murray, Bobby Pascua, Adelie Gorce        |
-| Mon 06/06, 16:00-17:00 | [Python I](Lessons/IntroPython)                      | Bobby Pascua          | Steven Murray, Paul La Plante, Adelie Gorce        |
+| Mon 06/06, 14:00-14:30 | Software Setup Testing                               | Paul La Plante        | Steven Murray, Bryna Hazelton        |
+| Mon 06/06, 14:30-15:30 | [Intro to Linux/Shell](Lessons/IntroToShell)         | Paul La Plante        | Steven Murray, Bobby Pascua, Adelie Gorce        |
+| Mon 06/06, 15:30-17:00 | [Python I](Lessons/IntroPython)                      | Bobby Pascua          | Steven Murray, Paul La Plante, Adelie Gorce        |
 | Tue 06/07, 09:30-12:30 | [Radio Astronomy Intro](Lessons/RadioAstronomyIntro) | Aaron Parsons         | Lindsay Berkhout   | 
 | Tue 06/07, 14:00-15:30 | [Python II](Lessons/IntroPython)                     | Bobby Pascua          | Steven Murray, Josh Dillon |
 | Tue 06/07, 15:30-17:00 | [Scientific Python](Lessons/ScientificPython)        | Josh Dillon           | Steven Murray, Bobby Pascua |
