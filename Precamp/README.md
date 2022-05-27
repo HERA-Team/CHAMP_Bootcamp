@@ -51,6 +51,9 @@ You'll also set up your own system to have the software required to follow most 
   * Go here: https://www.gitkraken.com/download and download for your system (on Windows, download the Windows version).
   * Make sure it opens (don't have to add any profile info yet, just make sure it opens)
 
+* Install VS Code for your OS (Windows version on Windows): https://code.visualstudio.com/Download 
+  * Make sure it opens.
+
 * Create a GitHub account (if you don't already have one)
   * Go to https://github.com and click Sign Up.
 
