@@ -34,18 +34,24 @@ You'll also set up your own system to have the software required to follow most 
 * Test that you can log into NRAO: 
   * In your terminal type: `ssh <username>@login.aoc.nrao.edu` (replace your username). If there's an error message, please email a co-ordinator.
 
+* Download the CHAMP_Bootcamp lessons:
+  * Right-click [this link](https://github.com/HERA-Team/CHAMP_Bootcamp/archive/refs/heads/main.zip) and save to your computer. The rest of the instructions will assume you've downloaded to your "Desktop" folder. If you know what you're doing, you can place it elsewhere.
+  * Unzip the downloaded archive with whatever software you usually use to do that (extract to your Desktop)
+ 
 * Install Python using Anaconda:
   * Download Miniconda from here: https://docs.conda.io/en/latest/miniconda.html. Choose the 64-bit version for your OS. If you're on Windows, choose the Linux 64-bit installer (because we're going to use it through WSL). On MacOS, choose the "bash" version. Save to your "Downloads" folder.
   * Run the miniconda installer: 
     * Mac: In your terminal, type `cd ~/Downloads; sh Miniconda3-latest-MacOSX-x86_64.sh`. Answer any questions it asks you to.   
-    * WSL: In your terminal, type `cd ~/widows-home/Downloads; sh Miniconda3-latest-Linux-x86_64.sh`.  Answer any questions it asks you to.
+    * WSL: In your terminal, type `cd ~/windows-home/Downloads; sh Miniconda3-latest-Linux-x86_64.sh`.  Answer any questions it asks you to.
     * Linux: In your terminal, type `cd ~/Downloads; sh Miniconda3-latest-Linux-x86_64.sh`. Answer any questions it asks you to.
 
-* Download the hera environment definition: right click [this link](https://github.com/HERA-Team/CHAMP_Bootcamp/blob/main/Precamp/hera_env.yml) and save to your Downloads folder.
 * Install the Python packages you'll need. Do all of these steps in your terminal:
   * Create a HERA conda environment: 
-  * Linux/Mac: `conda env create -f ~/Downloads/hera_env.yml`
-  * WSL: `conda env create -f ~/windows-home/Downloads/hera_env.yml`
+    * Linux/Mac: `conda env create -f ~/Desktop/CHAMP_Bootcamp/Precamp/hera_env.yml`
+    * WSL: `conda env create -f ~/windows-home/Desktop/CHAMP_Bootcamp/Precamp/hera_env.yml`
+  * Create a 21cmFAST conda environment:
+    * Linux/Mac: `conda env create -f ~/Desktop/CHAMP_Bootcamp/Precamp/21cmfast_env.yml`
+    * WSL: `conda env create -f ~/windows-home/Desktop/CHAMP_Bootcamp/Precamp/21cmfast_env.yml`
 
 * Install GitKraken:
   * Go here: https://www.gitkraken.com/download and download for your system (on Windows, download the Windows version).
