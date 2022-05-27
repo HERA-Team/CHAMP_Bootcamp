@@ -17,6 +17,8 @@ dependencies:
   - pyuvdata
   - scikit-learn
   - scipy
+  - ipywidgets
+  - ipykernel
   - pip:
       - git+https://github.com/HERA-Team/uvtools
       - git+https://github.com/HERA-Team/hera_cal
