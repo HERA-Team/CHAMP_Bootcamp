@@ -3,10 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - 21cmFAST
+  - 21cmFAST>=3.1.5
   - astropy
   - ipython
   - jupyter
   - nb_conda
+  - pip
   - pip:
     - powerbox
