@@ -40,11 +40,15 @@ You'll also set up your own system to have the software required to follow most 
  
 * Install Python using Anaconda:
   * Download Miniconda from here: https://docs.conda.io/en/latest/miniconda.html. Choose the 64-bit version for your OS. If you're on Windows, choose the Linux 64-bit installer (because we're going to use it through WSL). On MacOS, choose the "bash" version. Save to your "Downloads" folder.
-  * Run the miniconda installer: 
-    * Mac: In your terminal, type `cd ~/Downloads; sh Miniconda3-latest-MacOSX-x86_64.sh`. Answer any questions it asks you to.   
-    * WSL: In your terminal, type `cd ~/windows-home/Downloads; sh Miniconda3-latest-Linux-x86_64.sh`.  Answer any questions it asks you to.
-    * Linux: In your terminal, type `cd ~/Downloads; sh Miniconda3-latest-Linux-x86_64.sh`. Answer any questions it asks you to.
-
+  * Run the miniconda installer. Answer any questions with the default response, EXCEPT "Do you wish the installer to initialize Miniconda3 by running conda init" -- say YES to this: 
+    * Mac: In your terminal, type `cd ~/Downloads; sh Miniconda3-latest-MacOSX-x86_64.sh`.   
+    * WSL: In your terminal, type `cd ~/windows-home/Downloads; sh Miniconda3-latest-Linux-x86_64.sh`.
+    * Linux: In your terminal, type `cd ~/Downloads; sh Miniconda3-latest-Linux-x86_64.sh`.
+  * Type `source ~/.bashrc`. You should see "(base)" at the start of your command prompt now.
+  
+* Install the C-compiler (if you're on Windows/WSL):
+  * In your terminal, type `sudo apt install gcc`
+  
 * Install the Python packages you'll need. Do all of these steps in your terminal:
   * Create a HERA conda environment: 
     * Linux/Mac: `conda env create -f ~/Desktop/CHAMP_Bootcamp/Precamp/hera_env.yml`
