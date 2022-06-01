@@ -20,5 +20,7 @@ dependencies:
   - ipywidgets
   - ipykernel
   - pip:
+      - numexpr
       - git+https://github.com/HERA-Team/uvtools
       - git+https://github.com/HERA-Team/hera_cal
+      - git+https://github.com/HERA-Team/direct_optimal_mapping
