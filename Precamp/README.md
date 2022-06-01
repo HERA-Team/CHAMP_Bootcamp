@@ -67,3 +67,5 @@ You'll also set up your own system to have the software required to follow most 
 * Create a GitHub account (if you don't already have one)
   * Go to https://github.com and click Sign Up.
 
+* Download data needed for the shell lesson: https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip
+  * Unzip the folder and place it in your desktop.
