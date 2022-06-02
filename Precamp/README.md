@@ -36,7 +36,7 @@ You'll also set up your own system to have the software required to follow most 
   * In your terminal type: `ssh <username>@login.aoc.nrao.edu` (replace your username). If there's an error message, please email a co-ordinator.
  
 * Install Python using Anaconda. Open your terminal and type the following according to which OS you're on. You'll have to answer a few questions by typing and hitting ENTER after running the following command. Use the default response for everything, *except* say "yes" for initializing conda:
-  * `curl https://github.com/HERA-Team/CHAMP_Bootcamp/blob/main/Precamp/install_conda_envs.sh | sh`
+  * `curl https://raw.githubusercontent.com/HERA-Team/CHAMP_Bootcamp/main/Precamp/install_conda_envs.sh | sh`
   
 * Install GitKraken:
   * Go here: https://www.gitkraken.com/download and download for your system (on Windows, download the Windows version).
