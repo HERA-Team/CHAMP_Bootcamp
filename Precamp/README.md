@@ -51,11 +51,11 @@ You'll also set up your own system to have the software required to follow most 
   
 * Install the Python packages you'll need. Do all of these steps in your terminal:
   * Create a HERA conda environment: 
-    * Linux/Mac: `conda env create -f ~/Desktop/CHAMP_Bootcamp/Precamp/hera_env.yml`
-    * WSL: `conda env create -f ~/windows-home/Desktop/CHAMP_Bootcamp/Precamp/hera_env.yml`
+    * Linux/Mac: `conda env create -f ~/Desktop/CHAMP_Bootcamp-main/Precamp/hera_env.yml`
+    * WSL: `conda env create -f ~/windows-home/Desktop/CHAMP_Bootcamp-main/Precamp/hera_env.yml`
   * Create a 21cmFAST conda environment:
-    * Linux/Mac: `conda env create -f ~/Desktop/CHAMP_Bootcamp/Precamp/21cmfast_env.yml`
-    * WSL: `conda env create -f ~/windows-home/Desktop/CHAMP_Bootcamp/Precamp/21cmfast_env.yml`
+    * Linux/Mac: `conda env create -f ~/Desktop/CHAMP_Bootcamp-main/Precamp/21cmfast_env.yml`
+    * WSL: `conda env create -f ~/windows-home/Desktop/CHAMP_Bootcamp-main/Precamp/21cmfast_env.yml`
 
 * Install GitKraken:
   * Go here: https://www.gitkraken.com/download and download for your system (on Windows, download the Windows version).
