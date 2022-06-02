@@ -10,7 +10,9 @@ echo "Hello, you are using a ${machine} machine."
 url="https://repo.anaconda.com/miniconda/Miniconda3-latest-${machine}-x86_64.sh"
 
 echo "Downloading ${url}"
-curl ${url} | sh
+curl -o miniconda.sh ${url}
+sh miniconda.sh
+rm -f miniconda.sh
 
 curl -o env.yml https://raw.githubusercontent.com/HERA-Team/CHAMP_Bootcamp/main/Precamp/hera_env.yml
 conda env create -f env.yml
