@@ -35,19 +35,9 @@ You'll also set up your own system to have the software required to follow most 
 * Test that you can log into NRAO: 
   * In your terminal type: `ssh <username>@login.aoc.nrao.edu` (replace your username). If there's an error message, please email a co-ordinator.
  
-* Install Python using Anaconda. Open your terminal and type the following according to which OS you're on. You'll have to answer a few questions by typing and hitting ENTER after running the following command. Use the default response for everything, *except* say "yes" for initializing conda.:
-  * On MacOS: `curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOS-x86_64.sh | sh`
-  * On Windows/WSL or Linux: `curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh | sh`
-* Type `source ~/.bashrc`. You should see "(base)" at the start of your command prompt now.
+* Install Python using Anaconda. Open your terminal and type the following according to which OS you're on. You'll have to answer a few questions by typing and hitting ENTER after running the following command. Use the default response for everything, *except* say "yes" for initializing conda:
+  * `curl https://github.com/HERA-Team/CHAMP_Bootcamp/blob/main/Precamp/install_conda_envs.sh | sh`
   
-* Install the Python packages you'll need. Do all of these steps in your terminal:
-  * Create a HERA conda environment: 
-    * Run `curl --create-dirs -o ~/Downloads/hera_env.yml https://github.com/HERA-Team/CHAMP_Bootcamp/blob/main/Precamp/hera_env.yml`
-    * Run `conda env create -f ~/Downloads/hera_env.yml`
-  * Create a 21cmFAST conda environment:
-    * Run `curl --create-dirs -o ~/Downloads/21cmfast_env.yml https://github.com/HERA-Team/CHAMP_Bootcamp/blob/main/Precamp/21cmfast_env.yml`
-    * Run `conda env create -f ~/Downloads/21cmfast_env.yml`
-
 * Install GitKraken:
   * Go here: https://www.gitkraken.com/download and download for your system (on Windows, download the Windows version).
   * Make sure it opens (don't have to add any profile info yet, just make sure it opens)
