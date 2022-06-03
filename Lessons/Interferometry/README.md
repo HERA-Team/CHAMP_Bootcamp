@@ -4,6 +4,6 @@ The goal of this lesson is to obtain a basic familiarity with radio interferomet
 
 ## Setup
 
-Before starting the tutorial itself, go through [2022 Setup]() to get setup and ready to go for the tutorial. 
+Before starting the tutorial itself, go through [2022 Setup](2022_Setup.md) to get setup and ready to go for the tutorial. 
 
 We will be working on the NRAO servers: https://fastx.aoc.nrao.edu:3443/auth/ssh
