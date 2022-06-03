@@ -1,6 +1,6 @@
 # Lesson 7: Interferometry and Synthesis Imaging
 
-The goal of this lesson is to obtain a basic familiarity with radio interferometry. We will be going through the [Tutorial document](HERA_CHAMP_Interferometry_tutorial.pdf).
+The goal of this lesson is to obtain a basic familiarity with radio interferometry. We will be going through the [Tutorial document](HERA_CHAMP_Interferometry_tutorial.md).
 
 ## Setup
 
