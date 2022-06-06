@@ -1,29 +1,44 @@
-# Advanced and Scientific Python
+# Introductory and Advanced Python
 
-This session will continue the introduction to Python programming begun in 
-[Lesson 2](../Lesson2_IntroToComputing), and move on to exploring some essential 
-Python libraries for science.
+This lesson combines content from both the Introductory and Advanced Python tutorials. The material presented here
+is based on the [Software Carpentry Tutorial](http://swcarpentry.github.io/python-novice-gapminder/index.html), but
+with different topics emphasized in an attempt to better prepare the student for HERA-related work given the time
+constraints.
 
-## "Advanced" Python
+## Notes for Students
+You should work through the [Software Carpentry Tutorial](http://swcarpentry.github.io/python-novice-gapminder/index.html),
+as well as the [Example Notebook](./Demo.ipynb), on your own to familiarize yourself with the basic concepts of
+coding with Python.
 
-This second Python intro course will attempt to finish the 
-[Software Carpentry Tutorial](http://swcarpentry.github.io/python-novice-gapminder/index.html)
-begun in [Lesson 2](../Lesson2_IntroToComputing).
+## Notes for Instructors
+The [Software Carpentry Tutorial](http://swcarpentry.github.io/python-novice-gapminder/index.html) and
+[Example Notebook](./Demo.ipynb) form the foundation of the courses. These are not meant to be worked through
+verbatim in the lessons, but are meant to be used as guides for the instructors and references for the students.
+It is recommended to demonstrate the course content using an interactive session, preferably either the iPython
+interpreter or a Jupyter notebook. The goal of these tutorials is to prepare students with a minimum of knowledge
+necessary to start coding with Python, teach good coding practice *through example*, and develop a basic level of
+familiarity with debugging tools.
 
-Topics covered -- in addition to those in Lesson2 that weren't covered due to time 
-restrictions, will be (time permitting):
+## Course Content
 
-1. Lists
-2. For Loops
-3. Conditionals
-4. Looping over data sets
-5. Writing functions
-6. Variable Scope
-7. Programming Style
+### Introductory Python
 
-## Scientific Python
+Topics Covered:  
+  
+1. Running interactive sessions
+2. Variables
+3. Data Types
+4. Collections
+5. Conditionals
+6. Loops
 
-The format of the scientific python presentation is a 
-[Jupyter notebook](ScientificProgramming/Scientific_Programming_in_Python.ipynb), which 
-students are free to peruse after the main session for their own benefit. Other files in
-that directory are supporting data.
+### "Advanced" Python
+
+Topics covered:  
+  
+1. Functions
+2. Classes
+3. Scope
+4. Libraries
+5. Scripts
+6. Miscellaneous Tricks

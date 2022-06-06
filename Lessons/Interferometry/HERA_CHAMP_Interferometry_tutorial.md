@@ -14,7 +14,7 @@ Instructor: Danny Jacobs
 
 Lecture with a few slides.
 
-<img src="https://github.com/HERA-Team/CHAMP_Bootcamp/blob/master/Lesson7_Interferometry/SNR_G55.png" alt="SNR" width="400px" align="right" style="width:100px; align:right;"/>
+<img src="SNR_G55.png" alt="SNR" width="300px" align="right" style="width:300px; align:right;"/>
 
 Goals:
 
