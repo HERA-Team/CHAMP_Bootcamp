@@ -1,6 +1,6 @@
 # Reionization Theory and 21cmFAST
 
-This session will recap on some cosmology from [Lesson 1](Lesson1_21cmCosmo), and go
+This session will recap on some cosmology from [Lesson 1](../21cmCosmo), and go
 into more detail about the theory of reionization -- the role of Hydrogen in the 
 Universe, the spin-flip (21cm) transition, sources of (re)ionization, and the history
 of structure formation.
