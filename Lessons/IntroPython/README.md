@@ -2,7 +2,8 @@
 
 This lesson combines content from both the Introductory and Advanced Python tutorials. The material presented here
 is based on the [Software Carpentry Tutorial](http://swcarpentry.github.io/python-novice-gapminder/index.html), but
-with different topics emphasized in an attempt to better prepare the student for HERA-related work.
+with different topics emphasized in an attempt to better prepare the student for HERA-related work given the time
+constraints.
 
 ## Notes for Students
 You should work through the [Software Carpentry Tutorial](http://swcarpentry.github.io/python-novice-gapminder/index.html),
@@ -24,12 +25,12 @@ familiarity with debugging tools.
 
 Topics Covered:  
   
-1. Interactive sessions
+1. Running interactive sessions
 2. Variables
 3. Data Types
 4. Collections
-5. Loops
-6. Conditionals
+5. Conditionals
+6. Loops
 
 ### "Advanced" Python
 
@@ -40,3 +41,4 @@ Topics covered:
 3. Scope
 4. Libraries
 5. Scripts
+6. Miscellaneous Tricks
