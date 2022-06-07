@@ -10,7 +10,7 @@ ssh into the nrao login node
 
 run this:
 
-```cp ~/djacobs/XTem .```
+```cp ~/djacobs/XTerm .```
 
 **Step 1: Login**
 
