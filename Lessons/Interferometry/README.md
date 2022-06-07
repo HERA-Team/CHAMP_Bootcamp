@@ -1,9 +1,12 @@
 # Lesson 7: Interferometry and Synthesis Imaging
 
-The goal of this lesson is to obtain a basic familiarity with radio interferometry. We will be going through the [Tutorial document](HERA_CHAMP_Interferometry_tutorial.md).
+The goal of this lesson is to obtain a basic familiarity with radio interferometry imaging. We'll see a bit of CASA which is a standard toolset which is common in radio astronomy though somewhat more rarely by HERA people. 
+
+
+* We'll be using this [Tutorial](HERA_CHAMP_Interferometry_tutorial.md).
 
 ## Setup
+Each in-person tutorial has its own particular setup.
+* [2022 CHAMP Setup](2022_Setup.md) 
 
-Before starting the tutorial itself, go through [2022 Setup](2022_Setup.md) to get setup and ready to go for the tutorial. 
 
-We will be working on the NRAO servers: https://fastx.aoc.nrao.edu:3443/auth/ssh
