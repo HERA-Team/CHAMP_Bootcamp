@@ -3,6 +3,15 @@
 
 To run the Imaging tutorial, you will first need to login to the NRAO server and launch CASA. 
 
+**Step 0: Patches!**
+ssh into the nrao login node
+
+```ssh <myname>@login.aoc.nrao.edu```
+
+run this:
+
+```cp ~/djacobs/XTem .```
+
 **Step 1: Login**
 
 Launch fastX: https://fastx.aoc.nrao.edu:3443/auth/ssh
