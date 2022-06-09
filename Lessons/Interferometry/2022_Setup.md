@@ -3,6 +3,15 @@
 
 To run the Imaging tutorial, you will first need to login to the NRAO server and launch CASA. 
 
+**Step 0: Patches!**
+ssh into the nrao login node
+
+```ssh <myname>@login.aoc.nrao.edu```
+
+run this:
+
+```cp ~djacobs/XTerm .```
+
 **Step 1: Login**
 
 Launch fastX: https://fastx.aoc.nrao.edu:3443/auth/ssh
@@ -38,6 +47,16 @@ The data file you will be using should already be available in your current dire
 To launch CASA, simply type `casa` into the command line. This will open the `casa` enviornment in your terminal window. It will also open a "Log Messages" window, but you can minimize that as it is not important now. 
 
 <img src="Setup/casa_launch.png" alt="CASA launch" width="700px" align="center" style="width:700px; align:center;"/>
+
+**Data**
+Your data are located in 
+```/lustre/aoc/projects/hera/<myusername>/VLA_Imaging_Tutorial/```
+
+run ```cd /lustre/aoc/projects/hera/<myusername>/VLA_Imaging_Tutorial/```
+then
+```casa``
+
+
 
 **Finished!**
 
