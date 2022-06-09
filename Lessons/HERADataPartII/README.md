@@ -16,5 +16,6 @@ June, 2022
 3. Make some images with HERA data
 
 2022 Notes:
-All the demos are designed to run on NRAO with Jupyter Notebooks. Please have the NRAO account setup with the tunneling to run Jupyter Notebooks.
-Data files are stored on NRAO lustre, which should be accessible directly for everyone.
+1. All the demos are designed to run on NRAO with Jupyter Notebooks. Please have the NRAO account setup with the tunneling to run Jupyter Notebooks.
+2. Data files are stored on NRAO lustre, which should be accessible directly for everyone.
+3. Please run `cp /users/zxu/XTerm ~/` to enable copy/paste in the CASA interface.
