@@ -52,8 +52,8 @@ casa <1>: help  # run the help command in casa.
 ```
 
 
-**Setup and get data**
-Set up and run casa. Get data
+**Setup and get data (GENERAL USE)**
+Set up and run casa.  NOTE: CHAMP Camp attendees might have a specific data location. See site specific data setup.
 ```
 bash $ cd ~   #make a directory.  Note that you'll need about 
 bash $ mkdir imaging_workshop
