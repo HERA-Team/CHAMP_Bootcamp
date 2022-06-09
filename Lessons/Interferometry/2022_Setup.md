@@ -48,6 +48,16 @@ To launch CASA, simply type `casa` into the command line. This will open the `ca
 
 <img src="Setup/casa_launch.png" alt="CASA launch" width="700px" align="center" style="width:700px; align:center;"/>
 
+**Data**
+Your data are located in 
+```/lustre/aoc/projects/hera/<myusername>/VLA_Imaging_Tutorial/```
+
+run ```cd /lustre/aoc/projects/hera/<myusername>/VLA_Imaging_Tutorial/```
+then
+```casa``
+
+
+
 **Finished!**
 
 You are now ready to start the [Tutorial](HERA_CHAMP_Interferometry_tutorial.md)!
