@@ -1,9 +1,9 @@
 ## HERA Data Analysis Part II: Calibration and Imaging
 ---
 
-Nick Kern & Ridhima Nunhokee
+Zhilei Xu
 <br>
-June, 2021
+June, 2022
 
 #### Lesson Outline
 1. Calibration Overview + Demo
@@ -15,10 +15,6 @@ June, 2021
 2. Gain familiarity with HERA's imaging capabilities
 3. Make some images with HERA data
 
-2021 Notes:
-This year we did all computing remotely at NRAO. All students were given NRAO accounts, data were kept on nkern lustre space and copied
-over to student space at beginning of the lesson.
-
-2020 Notes:
-Recent CASA versions have deprecated `plotuv`
-Note that the data exceeds 1.3 GB, so hard-copy of data products were delivered in person to students.
+2022 Notes:
+All the demos are designed to run on NRAO with Jupyter Notebooks. Please have the NRAO account setup with the tunneling to run Jupyter Notebooks.
+Data files are stored on NRAO lustre, which should be accessible directly for everyone.
