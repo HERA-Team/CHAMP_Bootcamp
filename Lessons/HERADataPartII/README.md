@@ -1,7 +1,7 @@
 ## HERA Data Analysis Part II: Calibration and Imaging
 ---
 
-Zhilei Xu
+Zhilei Xu (adapted from Nick Kern and Ridhima Nunhokee)
 <br>
 June, 2022
 
