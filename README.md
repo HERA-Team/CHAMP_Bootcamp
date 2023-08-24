@@ -8,6 +8,15 @@ This repository is for lesson material for the CHAMP bootcamp. See http://reioni
 * [Post-session evaluation form](https://forms.gle/Un2HSxZShNezrmGDA) (complete after every lesson)
 * [Post-Summer Survey](https://forms.gle/9qZRg38acKG9CKrH6) (complete after the summer is done)
 
+## Schedule for CHAMP Camp 2023
+
+### In-Person Lessons
+| Date/Time (Eastern)    | Topic                                                | Primary Instructor(s) | Helpers |
+| ---------              | -----                                                | --------------------- | ------- |
+| Mon 06/06, 09:00-09:30 | Welcome to CHAMP                                     |                       |         |
+| Mon 06/06, 09:30-12:30 | [Intro to Cosmology](Lessons/21cmCosmo)              |                       |         |
+| Mon 06/06, 12:30-14:00 | **LUNCH AND INTROS**                                 |                      |         |
+
 ## Schedule for CHAMP Camp 2022
 
 
